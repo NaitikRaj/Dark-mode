@@ -6,10 +6,6 @@ This project is a simple web application that allows users to toggle between lig
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Future Improvements](#future-improvements)
-- [Contributing](#contributing)
 
 ## Project Overview
 The "Dark Mode" project provides users with the ability to toggle between dark and light themes. The project emphasizes a consistent user interface and fluid toggle functionality. The design aims to enhance user experience by offering a more comfortable viewing option, especially in low-light conditions.
